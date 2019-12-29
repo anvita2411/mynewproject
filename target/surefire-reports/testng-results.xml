@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74646" started-at="2019-12-29T12:05:03Z" finished-at="2019-12-29T12:06:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74646" started-at="2019-12-29T12:05:03Z" finished-at="2019-12-29T12:06:18Z">
+      <class name="myproject.mynewproject.AppTest">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="launchDriver" is-config="true" duration-ms="21042" started-at="2019-12-29T12:05:03Z" finished-at="2019-12-29T12:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="Test1" duration-ms="11107" started-at="2019-12-29T12:05:24Z" finished-at="2019-12-29T12:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="launchDriver" is-config="true" duration-ms="12321" started-at="2019-12-29T12:05:36Z" finished-at="2019-12-29T12:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="Test2" duration-ms="6594" started-at="2019-12-29T12:05:48Z" finished-at="2019-12-29T12:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="launchDriver" is-config="true" duration-ms="19979" started-at="2019-12-29T12:05:54Z" finished-at="2019-12-29T12:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:myproject.mynewproject.AppTest@34b7bfc0]" name="Test3" duration-ms="3565" started-at="2019-12-29T12:06:14Z" finished-at="2019-12-29T12:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- myproject.mynewproject.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
